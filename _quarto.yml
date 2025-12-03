@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Tianzhou (Frida) Yao"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+
+
+
