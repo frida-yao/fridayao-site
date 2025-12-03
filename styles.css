@@ -1,0 +1,59 @@
+/* Make the headings blue */
+h1, h2, h3 {
+  color: #0033a0;
+}
+
+/* Slightly larger line spacing */
+body {
+  line-height: 1.5;
+}
+
+/* Remove underline from navigation */
+.navbar a {
+  text-decoration: none;
+}
+
+/* Teaching Experience Card Style */
+.teaching-card {
+  border-left: 4px solid #2c77c3;
+  background: #f8f9fa;
+  padding: 15px 20px;
+  margin-bottom: 25px;
+  border-radius: 5px;
+}
+
+.teaching-title {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-bottom: 8px;
+  color: #2c3e50;
+}
+
+.teaching-detail {
+  margin-bottom: 6px;
+}
+
+.teaching-label {
+  font-weight: 600;
+}
+
+.teaching-comments {
+  font-style: italic;
+  color: #555;
+}
+
+
+.photo-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.gallery-pic {
+  width: 250px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+

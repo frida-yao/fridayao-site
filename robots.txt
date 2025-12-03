@@ -1,0 +1,1 @@
+Sitemap: http://github.com/frida-yao/fridayao-site.git/sitemap.xml
