@@ -1,0 +1,13 @@
+# RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto build files
+_site/
+*.html
+
+# System files
+.DS_Store
+Thumbs.db
