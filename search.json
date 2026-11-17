@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I am a Ph.D. Candidate in Economics at the University of Washington.\nMy research focuses on macroeconomics, public finance, and household behavior, with an emphasis on how bargaining power, family dynamics, and taxation shape female labor supply across the life cycle.\nI use structural life-cycle models, rich panel data, and policy simulations to understand how households make decisions under uncertainty and under institutional constraints.\nI am committed to undergraduate teaching and inclusive pedagogy.\nOutside of research, I enjoy creative writing, tennis, bird-watching, and exploring the Pacific Northwest."
+    "text": "I am a Ph.D. Candidate in Economics at the University of Washington.\nMy research focuses on labor economics, policy evaluation, demographic structure and heterogeneous household behavior, with an emphasis on how bargaining power, family dynamics, and social safety net shape female labor supply across the life cycle.\nI use structural life-cycle models, rich panel data, and policy simulations to understand how households make decisions under uncertainty and under institutional constraints.\nI am passionate about undergraduate teaching and commit to inclusive pedagogy.\nOutside of research, I enjoy creative writing, tennis, bird-watching, and exploring the Pacific Northwest."
   },
   {
     "objectID": "cv.html",
@@ -32,14 +32,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "(Job Market Paper)\nPDF\nI examine how intra-household bargaining, endogenous divorce, and gender-education-specific marital preferences shape female labor supply across the life cycle.\nUsing a structural model calibrated to Japanese survey data, I show how bargaining power, education, assets, and divorce expectations jointly drive female participation patterns, consumption, and savings.\nThe extended model on intensive working hours decision quantifies the distortions created by progressive household taxation and evaluates alternative tax reforms.\nPresentations: American Economic Association 2026 (scheduled, poster), Gender in the Economy: Structural Transformation and Women’s Time-Use 2026 (submitted)"
+    "text": "(Job Market Paper)\nPDF\nLed policy evaluation of Japan’s pension division reform using Difference-in-Differences and event study methodologies on panel data, identifying causal effects of institutional changes on household labor supply behavior.\nDesigned and calibrated a structural heterogeneous-agent life-cycle model incorporating labor supply, savings, and divorce decisions to quantify both bargaining channel and marital preference channel.\nPerformed counterfactual policy simulations for quasi-experimental design, showing dynamic propagation of the outside option shock through anticipation effect and implementation effect.\nPresentations: American Economic Association 2026, Gender in the Economy: Structural Transformation and Women’s Time-Use 2026 (submitted)"
   },
   {
-    "objectID": "research.html#intra-household-bargaining-endogenous-divorce-and-female-labor-supply",
-    "href": "research.html#intra-household-bargaining-endogenous-divorce-and-female-labor-supply",
+    "objectID": "research.html#pension-division-reform-intra-household-bargaining-and-female-labor-supply-over-the-life-cycle",
+    "href": "research.html#pension-division-reform-intra-household-bargaining-and-female-labor-supply-over-the-life-cycle",
     "title": "Research",
     "section": "",
-    "text": "(Job Market Paper)\nPDF\nI examine how intra-household bargaining, endogenous divorce, and gender-education-specific marital preferences shape female labor supply across the life cycle.\nUsing a structural model calibrated to Japanese survey data, I show how bargaining power, education, assets, and divorce expectations jointly drive female participation patterns, consumption, and savings.\nThe extended model on intensive working hours decision quantifies the distortions created by progressive household taxation and evaluates alternative tax reforms.\nPresentations: American Economic Association 2026 (scheduled, poster), Gender in the Economy: Structural Transformation and Women’s Time-Use 2026 (submitted)"
+    "text": "(Job Market Paper)\nPDF\nLed policy evaluation of Japan’s pension division reform using Difference-in-Differences and event study methodologies on panel data, identifying causal effects of institutional changes on household labor supply behavior.\nDesigned and calibrated a structural heterogeneous-agent life-cycle model incorporating labor supply, savings, and divorce decisions to quantify both bargaining channel and marital preference channel.\nPerformed counterfactual policy simulations for quasi-experimental design, showing dynamic propagation of the outside option shock through anticipation effect and implementation effect.\nPresentations: American Economic Association 2026, Gender in the Economy: Structural Transformation and Women’s Time-Use 2026 (submitted)"
   },
   {
     "objectID": "research.html#financial-literacy-confidence-and-retirement-planning-evidence-from-china-research-assistant-for-bingzheng-chen-and-ze-chen",
